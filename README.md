@@ -2,9 +2,7 @@
 
 A simple stopwatch web app built with HTML, CSS, and JavaScript.
 
-<video width="100%" height="auto" autoplay loop muted>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+![Stopwatch Demo](./demo.gif)
 
 
 ## Features
