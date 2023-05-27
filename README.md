@@ -2,7 +2,7 @@
 
 A simple stopwatch web app built with HTML, CSS, and JavaScript.
 
-![Stopwatch Demo](https://drive.google.com/file/d/1gwoUOpmZr64RzCPboBJEFCty04Nkt2JW/view?usp=sharing)
+![Stopwatch Demo](https://github.com/ersuheb/Stopwatch/assets/81223989/fab5f583-51a1-4eba-a354-6521ca2914b9)
 
 
 ## Features
